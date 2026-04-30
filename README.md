@@ -1,4 +1,3 @@
-
 # Mumbai Food Delivery Market Analysis
 
 ## Overview
